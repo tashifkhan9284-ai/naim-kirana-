@@ -1,0 +1,98 @@
+/* ===========================
+   NAIM KIRANA STORE
+   ADMIN PANEL CSS
+   Part 1
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+    background:#f2f5f7;
+    color:#333;
+}
+
+.container{
+    width:95%;
+    max-width:1200px;
+    margin:30px auto;
+}
+
+h1{
+    text-align:center;
+    color:#2e7d32;
+    margin-bottom:20px;
+}
+
+.card{
+    background:#fff;
+    border-radius:12px;
+    padding:20px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+    margin-bottom:25px;
+}
+
+#productForm{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:15px;
+}
+
+input,
+select,
+textarea{
+    width:100%;
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:16px;
+}
+
+input:focus,
+select:focus,
+textarea:focus{
+    border-color:#2e7d32;
+    outline:none;
+}
+
+input[type=file]{
+    background:#fff;
+}
+
+button{
+    padding:12px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.save-btn{
+    background:#2e7d32;
+    color:#fff;
+}
+
+.save-btn:hover{
+    background:#1b5e20;
+}
+
+.reset-btn{
+    background:#757575;
+    color:#fff;
+}
+
+.reset-btn:hover{
+    background:#424242;
+}
+
+hr{
+    margin:25px 0;
+    border:none;
+    border-top:1px solid #ddd;
+}
