@@ -63,4 +63,59 @@
     "category": "grocery",
     "image": "images/categories/oil.jpg"
   }
-]
+]{
+  "id": 9,
+  "name_en": "Spices",
+  "name_hi": "मसाले",
+  "name_mr": "मसाले",
+  "category": "grocery",
+  "image": "images/categories/spices.jpg"
+},
+{
+  "id": 10,
+  "name_en": "Turmeric Powder",
+  "name_hi": "हल्दी पाउडर",
+  "name_mr": "हळद पावडर",
+  "category": "spices",
+  "image": "images/products/turmeric.jpg"
+},
+{
+  "id": 11,
+  "name_en": "Red Chilli Powder",
+  "name_hi": "लाल मिर्च पाउडर",
+  "name_mr": "लाल तिखट",
+  "category": "spices",
+  "image": "images/products/red-chilli.jpg"
+},
+{
+  "id": 12,
+  "name_en": "Coriander Powder",
+  "name_hi": "धनिया पाउडर",
+  "name_mr": "धणे पावडर",
+  "category": "spices",
+  "image": "images/products/coriander.jpg"
+},
+{
+  "id": 13,
+  "name_en": "Garam Masala",
+  "name_hi": "गरम मसाला",
+  "name_mr": "गरम मसाला",
+  "category": "spices",
+  "image": "images/products/garam-masala.jpg"
+},
+{
+  "id": 14,
+  "name_en": "Cumin",
+  "name_hi": "जीरा",
+  "name_mr": "जिरे",
+  "category": "spices",
+  "image": "images/products/cumin.jpg"
+},
+{
+  "id": 15,
+  "name_en": "Mustard Seeds",
+  "name_hi": "सरसों",
+  "name_mr": "मोहरी",
+  "category": "spices",
+  "image": "images/products/mustard.jpg"
+}
