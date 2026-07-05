@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Aashirvaad Atta",
+    "price": 420,
+    "image": "images/products/atta.jpg"
+  },
+  {
+    "id": 2,
+    "name": "India Gate Rice",
+    "price": 75,
+    "image": "images/products/rice.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fortune Sunflower Oil",
+    "price": 180,
+    "image": "images/products/oil.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Amul Milk",
+    "price": 32,
+    "image": "images/products/milk.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coca-Cola",
+    "price": 40,
+    "image": "images/products/cocacola.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Balaji Wafers",
+    "price": 20,
+    "image": "images/products/balaji.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ice Cream",
+    "price": 50,
+    "image": "images/products/icecream.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Parle-G Biscuits",
+    "price": 10,
+    "image": "images/products/parleg.jpg"
+  }
+]
